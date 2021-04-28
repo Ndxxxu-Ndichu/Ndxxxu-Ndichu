@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ndichu Mwangi
 - 👀 I’m interested in Python and JavaScript
-- 🌱 I’m currently learning FrontEnd Development with React and BackEnd Development with Python
+- 🌱 I’m currently learning JavaScript and Python
 - 💞️ I’m looking to collaborate on any of the above mentioned languages or challanges
 - 📫 Reach me through ndichumwangi7@gmail.com
 
