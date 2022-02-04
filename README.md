@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ndichu Mwangi
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning Python and Flutter
 - 💞️ I’m looking to collaborate on any of the above mentioned languages or challanges
 - 📫 Reach me through ndichumwangi7@gmail.com
 
