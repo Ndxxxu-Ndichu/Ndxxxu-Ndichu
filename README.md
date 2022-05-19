@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ndichu Mwangi
-- 🌱 I love working with python!
+- 🌱 A back-end developer, I love using python and Node.js!
 - 📫 Reach me through ndichumwangi7@gmail.com
 
 <!---
